@@ -1,0 +1,22 @@
+.user-partialData{
+    border: 1px solid blue;
+    width: 60%;
+    margin-left: 18%;
+    padding: 15px;
+    margin-bottom: 5px;
+    background-color: gainsboro;
+    border-radius: 5px;
+    text-align: center;
+}
+.emp-container{
+    border: 1px solid blue;
+ 
+}
+
+h1{
+    background-color: rgb(50, 37, 231);
+    color: white;
+    padding: 5px;
+    width: 100%;
+    text-align: center;
+}
